@@ -47,7 +47,7 @@ export default function Navbar() {
         {/* Kiri: Brand Logo */}
         <Link href="/" className="flex items-center shrink-0">
           <Image
-            src="/images/Logo/2a_1.png"
+            src="/images/logo/2a_1.png"
             alt="Djemat &amp; Odang Law Firm Logo"
             width={160}
             height={40}
