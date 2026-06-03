@@ -43,6 +43,12 @@ export const teamMembers: TeamMember[] = [
     bio: "Agassi Zaki obtained his Bachelor's degree from BINUS International and completed his Master's degree at Macquarie University. He currently serves as a finance consultant with expertise in business permit law and corporate management. His work includes assisting clients in securing regulatory approvals and ensuring compliance with Indonesian business laws. He has also advised on corporate structuring, governance, and strategic management issues.",
   },
   {
+    name: "Abraham Caleb Dompas, S.H., M.H.",
+    role: "Of Counsel",
+    imagePath: "/images/team/abraham.jpeg",
+    bio: "Abraham Caleb Dompas is Of Counsel at Djemat & Odang Law Firm with over five years of legal experience. A member of the Indonesian Bar Association, he holds both a Bachelor and Master of Laws from Pelita Harapan University. Caleb brings a powerful mix of private practice and deep in-house corporate experience from APRIL Group, one of Asia’s largest pulp and paper conglomerates. He specializes in bankruptcy/PKPU, international trade, and sustainability compliance. His distinct background allows him to deliver business-oriented counsel for clients in highly regulated sectors, bridging cross-border trade issues, regulatory risks, and strategic government relations.",
+  },
+  {
     name: "Rafa Jafar, S.H.",
     role: "Of Counsel",
     imagePath: "/images/team/rafa.jpg",
