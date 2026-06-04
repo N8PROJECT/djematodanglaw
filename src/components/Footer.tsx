@@ -32,7 +32,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center mb-20 pb-12 border-b border-white/10 gap-8 relative z-10">
           {/* 🛠️ FIX: CTA text center di HP */}
           <div className="max-w-2xl relative z-10 flex flex-col items-center md:items-start text-center md:text-left">
-            <h2 className="font-cormorant text-4xl md:text-5xl font-bold mb-4 tracking-wide text-white">
+            <h2 className="font-cormorant text-4xl md:text-5xl font-bold mb-4 tracking-wide text-white uppercase">
               Secure Your Corporate Growth
             </h2>
             <p className="font-archivo font-light text-[#F0E1CE]/70 text-lg">
@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
 
           <Link
-            href="/contact"
+            href="#contact"
             className="inline-flex items-center gap-3 bg-[#AC5335] text-white px-8 py-4 text-xs font-archivo font-bold tracking-widest uppercase rounded-sm hover:bg-[#F0E1CE] hover:text-[#590909] active:scale-95 transition-all duration-300 shadow-xl"
           >
             <span>CONTACT US TODAY</span>

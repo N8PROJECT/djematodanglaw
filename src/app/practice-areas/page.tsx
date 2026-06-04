@@ -25,7 +25,7 @@ export default function PracticeAreasPage() {
               What We Do
             </span>
 
-            <h1 className="font-cormorant text-4xl md:text-6xl text-[#F0E1CE] font-bold leading-[1.15] mb-6 tracking-wide">
+            <h1 className="font-cormorant text-4xl md:text-6xl text-[#F0E1CE] font-bold leading-[1.15] mb-6 tracking-wide uppercase">
               Comprehensive Legal <br />
               Capabilities &amp; Expertise
             </h1>
@@ -55,7 +55,7 @@ export default function PracticeAreasPage() {
 
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="text-center mb-20">
-            <h2 className="font-cormorant text-4xl md:text-5xl text-[#590909] font-bold">
+            <h2 className="font-cormorant text-4xl md:text-5xl text-[#590909] font-bold uppercase">
               Our Specializations
             </h2>
             <div className="w-20 h-[2px] bg-[#AC5335] mx-auto mt-6"></div>

@@ -63,7 +63,7 @@ export default function Home() {
               DJEMAT &amp; ODANG LAW FIRM
             </span>
 
-            <h1 className="font-cormorant text-5xl md:text-7xl text-[#F0E1CE] font-bold leading-[1.15] mb-4 tracking-wide">
+            <h1 className="font-cormorant text-5xl md:text-7xl text-[#F0E1CE] font-bold leading-[1.15] mb-4 tracking-wide uppercase">
               Driven by Trust, <br />
               Oriented to{" "}
               <span className="italic text-[#AC5335]">Solutions.</span>
@@ -171,7 +171,7 @@ export default function Home() {
                 Our Profile
               </span>
 
-              <h2 className="font-cormorant text-4xl lg:text-5xl text-[#110509] font-bold leading-[1.15] mb-8">
+              <h2 className="font-cormorant text-4xl lg:text-5xl text-[#110509] font-bold leading-[1.15] mb-8 uppercase">
                 Delivering Practical &amp; <br />
                 Reliable Legal Solutions
               </h2>
@@ -249,7 +249,7 @@ export default function Home() {
               <span className="w-8 h-[1px] bg-[#AC5335]"></span>
               WHAT WE DO
             </span>
-            <h2 className="font-cormorant text-4xl md:text-5xl text-[#590909] font-bold">
+            <h2 className="font-cormorant text-4xl md:text-5xl text-[#590909] font-bold uppercase">
               Our Practice Areas
             </h2>
           </div>

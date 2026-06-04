@@ -71,12 +71,12 @@ export default function Navbar() {
                 </li>
               ))}
             </ul>
-            <Link
-              href="/contact"
+            <a
+              href="#contact"
               className="border border-[#F0E1CE]/30 px-6 py-2.5 font-archivo text-xs font-bold tracking-widest text-[#F0E1CE] uppercase hover:bg-[#F0E1CE] hover:text-[#110509] transition-all duration-300"
             >
               Contact
-            </Link>
+            </a>
           </div>
 
           {/* ================= MOBILE HAMBURGER TO X BUTTON ================= */}
@@ -150,13 +150,13 @@ export default function Navbar() {
               isOpen ? "translate-y-0 opacity-100" : "translate-y-8 opacity-0"
             }`}
           >
-            <Link
-              href="/contact"
+            <a
+              href="#contact"
               onClick={() => setIsOpen(false)}
               className="inline-block bg-[#AC5335] px-8 py-4 font-archivo text-xs font-bold tracking-widest text-white uppercase"
             >
               Contact Us Today
-            </Link>
+            </a>
           </li>
         </ul>
 

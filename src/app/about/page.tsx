@@ -53,7 +53,7 @@ export default function AboutPage() {
               About Us
             </span>
 
-            <h1 className="font-cormorant text-4xl md:text-6xl text-[#F0E1CE] font-bold leading-[1.15] mb-6 tracking-wide">
+            <h1 className="font-cormorant text-4xl md:text-6xl text-[#F0E1CE] font-bold leading-[1.15] mb-6 tracking-wide uppercase">
               Get to Know More About <br />
               Djemat &amp; Odang Law Firm
             </h1>
@@ -113,7 +113,7 @@ export default function AboutPage() {
             <span className="text-[#AC5335] font-archivo font-semibold tracking-[0.25em] uppercase text-xs mb-3 block">
               THIS IS D&amp;O
             </span>
-            <h2 className="font-cormorant text-4xl lg:text-5xl text-[#110509] font-bold leading-tight">
+            <h2 className="font-cormorant text-4xl lg:text-5xl text-[#110509] font-bold leading-tight uppercase">
               Corporate Overview
             </h2>
             <div className="w-12 h-[2px] bg-[#AC5335] mt-6"></div>
