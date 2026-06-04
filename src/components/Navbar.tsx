@@ -28,9 +28,9 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "Home", href: "/" },
-    { name: "About Firm", href: "/#about" },
-    { name: "Practice Areas", href: "/#practice" },
-    { name: "Our Team", href: "/#team" },
+    { name: "About Firm", href: "/about" },
+    { name: "Practice Areas", href: "/practice-areas" },
+    { name: "Our Team", href: "/team" },
   ];
 
   return (
@@ -49,7 +49,7 @@ export default function Navbar() {
             onClick={() => setIsOpen(false)}
           >
             <Image
-              src="/images/logo/D&O-Logo-Main.png"
+              src="/images/logo/3a_1.png"
               alt="D&O Logo"
               width={160}
               height={50}
