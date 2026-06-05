@@ -100,7 +100,7 @@ export default function PracticeAreasPage() {
                 {/* 🛠️ REVISED: Direct to Dynamic WhatsApp Link */}
                 <div className="relative z-10 mt-auto pt-4 border-t border-gray-100 group-hover:border-[#F0E1CE] transition-colors">
                   <a
-                    href={`https://wa.me/6281234567890?text=Hello%20D%26O%20Law%20Firm,%20I%20am%20interested%20in%20consulting%20regarding%20${encodeURIComponent(area.title)}.`}
+                    href={`https://wa.me/628158776788?text=Hello%20D%26O%20Law%20Firm,%20I%20am%20interested%20in%20consulting%20regarding%20${encodeURIComponent(area.title)}.`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-xs font-archivo font-bold uppercase tracking-widest text-[#110509] hover:text-[#AC5335] transition-colors"
