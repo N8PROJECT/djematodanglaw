@@ -21,6 +21,11 @@ const archivo = Archivo({
 export const metadata: Metadata = {
   title: "Djemat & Odang Law Firm",
   description: "Driven by Trust, Oriented to Solutions",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
